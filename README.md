@@ -5,8 +5,7 @@
 * Graphics are rendered as fast as the CPU will allow, game objects are updated 60 times a second 
 * The main "brain" of the engine is the Game.java class, the above game logic is in the "run" method. 
 
-## The engine uses the standard swing library for its window, and it uses the standard graphics library 
-to draw. 
+## The engine uses the standard swing library for its window, and it uses the standard graphics library to draw. 
 * All moving graphics stem from the "GameObject" class. 
 
 ## The implementation of the engine has two enemies. 
